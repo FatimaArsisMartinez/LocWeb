@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="100" viewBox="0 0 1280 100">
+  <defs>
+    <style>
+      .cls-1, .cls-4, .cls-6, .cls-7, .cls-8 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #de7abe;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #bf0811;
+      }
+
+      .cls-5 {
+        fill: #f0f;
+      }
+
+      .cls-6, .cls-7 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 20px;
+      }
+
+      .cls-6 {
+        fill: url(#radial-gradient);
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-7 {
+        fill: url(#radial-gradient-2);
+        stroke: url(#linear-gradient-2);
+      }
+
+      .cls-8 {
+        fill: #dd70bb;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="800" cy="54.5" r="7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.332" stop-color="#eb1111"/>
+      <stop offset="1" stop-color="#310e0e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="800" y1="62" x2="800" y2="47" gradientUnits="userSpaceOnUse">
+      <stop offset="0"/>
+      <stop offset="0.5" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="245.5" cy="7.5" r="28.5" xlink:href="#radial-gradient"/>
+    <linearGradient id="linear-gradient-2" x1="245.5" y1="36" x2="245.5" y2="-21" xlink:href="#linear-gradient"/>
+  </defs>
+  <image id="Fondo" width="1280" height="100" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAABQAAAABkCAYAAADZuZ0cAAAC8klEQVR4nO3YMRHAQBDEsEv4c97n4ZEouPO3bQcAAAAAJP2yAgAAAECXAQgAAAAAYQYgAAAAAIQZgAAAAAAQZgACAAAAQJgBCAAAAABhBiAAAAAAhBmAAAAAABBmAAIAAABAmAEIAAAAAGEGIAAAAACEGYAAAAAAEGYAAgAAAECYAQgAAAAAYQYgAAAAAIQZgAAAAAAQZgACAAAAQJgBCAAAAABhBiAAAAAAhBmAAAAAABBmAAIAAABAmAEIAAAAAGEGIAAAAACEGYAAAAAAEGYAAgAAAECYAQgAAAAAYQYgAAAAAIQZgAAAAAAQZgACAAAAQJgBCAAAAABhBiAAAAAAhBmAAAAAABBmAAIAAABAmAEIAAAAAGEGIAAAAACEGYAAAAAAEGYAAgAAAECYAQgAAAAAYQYgAAAAAIQZgAAAAAAQZgACAAAAQJgBCAAAAABhBiAAAAAAhBmAAAAAABBmAAIAAABAmAEIAAAAAGEGIAAAAACEGYAAAAAAEGYAAgAAAECYAQgAAAAAYQYgAAAAAIQZgAAAAAAQZgACAAAAQJgBCAAAAABhBiAAAAAAhBmAAAAAABBmAAIAAABAmAEIAAAAAGEGIAAAAACEGYAAAAAAEGYAAgAAAECYAQgAAAAAYQYgAAAAAIQZgAAAAAAQZgACAAAAQJgBCAAAAABhBiAAAAAAhBmAAAAAABBmAAIAAABAmAEIAAAAAGEGIAAAAACEGYAAAAAAEGYAAgAAAECYAQgAAAAAYQYgAAAAAIQZgAAAAAAQZgACAAAAQJgBCAAAAABhBiAAAAAAhBmAAAAAABBmAAIAAABAmAEIAAAAAGEGIAAAAACEGYAAAAAAEGYAAgAAAECYAQgAAAAAYQYgAAAAAIQZgAAAAAAQZgACAAAAQJgBCAAAAABhBiAAAAAAhBmAAAAAABBmAAIAAABAmAEIAAAAAGEGIAAAAACEGYAAAAAAEGYAAgAAAECYAQgAAAAAYQYgAAAAAFTd3QN9RQTEKw7mPAAAAABJRU5ErkJggg=="/>
+  <path id="Polígono_1" data-name="Polígono 1" class="cls-1" d="M128.557,71.94L80.338,93.533,44.9,54.346,71.22,8.534l51.7,10.874Z"/>
+  <ellipse id="Elipse_2" data-name="Elipse 2" class="cls-2" cx="1122.5" cy="82.5" rx="38.5" ry="35.5"/>
+  <ellipse id="Elipse_3" data-name="Elipse 3" class="cls-3" cx="1131.5" cy="51" rx="33.5" ry="32"/>
+  <ellipse id="Elipse_4" data-name="Elipse 4" class="cls-2" cx="1168" cy="36" rx="36" ry="34"/>
+  <ellipse id="Elipse_5" data-name="Elipse 5" class="cls-3" cx="1204" cy="53" rx="35" ry="34"/>
+  <path id="Forma_1" data-name="Forma 1" class="cls-4" d="M381.91,63.632l-26.645-42.9,43.6,32.179,4.845-30.391,8.075,27.709L444.083,10l-7.267,44.692,37.142-8.938-32.3,26.815L478,77.933,445.7,95.81l23.415,22.346-33.912-4.47,20.993,45.586L414.208,126.2,379.488,170l16.149-54.524-50.869,28.6L380.3,103.855l-53.29-8.939L375.451,84.19l-28.26-23.24Z"/>
+  <path id="Forma_2" data-name="Forma 2" class="cls-1" d="M679.365,16.5L659.777-7.9l32.052,18.3L695.39-6.882l5.936,15.76L725.067-14l-5.341,25.418,27.3-5.084L723.287,21.587,750,24.637,726.255,34.8l17.212,12.709-24.928-2.542L733.971,70.9,703.106,52.089,677.584,77l11.871-31.01L652.061,62.256,678.177,39.38,639,34.3l35.613-6.1L653.842,14.978Z"/>
+  <ellipse id="Elipse_9" data-name="Elipse 9" class="cls-5" cx="285.5" cy="57.5" rx="12.5" ry="13.5"/>
+  <ellipse id="Elipse_6" data-name="Elipse 6" class="cls-2" cx="1221.5" cy="86.5" rx="34.5" ry="35.5"/>
+  <ellipse id="Elipse_7" data-name="Elipse 7" cx="1169.5" cy="84.5" rx="51.5" ry="48.5"/>
+  <circle id="Elipse_10" data-name="Elipse 10" class="cls-3" cx="763" cy="41" r="8"/>
+  <path id="Elipse_11" data-name="Elipse 11" class="cls-6" d="M800,47a7.516,7.516,0,1,1-8,7.5A7.762,7.762,0,0,1,800,47Z"/>
+  <path id="Elipse_12" data-name="Elipse 12" class="cls-7" d="M245.5-21C260.688-21,273-8.24,273,7.5S260.688,36,245.5,36,218,23.24,218,7.5,230.312-21,245.5-21Z"/>
+  <path id="Forma_3" data-name="Forma 3" class="cls-1" d="M856.864,43.481l0.272-.962,219,62-0.28.962Z"/>
+  <path id="Forma_5" data-name="Forma 5" class="cls-1" d="M7.091,97.492l-0.182-.983,535-99,0.182,0.983Z"/>
+  <path id="Forma_6" data-name="Forma 6" class="cls-8" d="M484.442,107.234l-0.884-.468,60-113,0.884,0.469Z"/>
+  <path id="Polígono_2" data-name="Polígono 2" class="cls-8" d="M583.185,81.836l-42.621-7.009-6.5-42.7,38.6-19.382,30.361,30.722Z"/>
+  <path id="Forma_4" data-name="Forma 4" class="cls-1" d="M896.186,88.464l-0.372-.928,316-127,0.38,0.928Z"/>
+</svg>
